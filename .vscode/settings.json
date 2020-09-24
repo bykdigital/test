@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/2afcfd77-305d-43d3-bb05-a832b79f1627/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/wildcardstlbrowns",
+    "appService.deploySubpath": "."
+}
